@@ -4,7 +4,7 @@
 
 Welcome to the Lavanderia Giulia website repository! This project serves as the official website for Lavanderia Giulia, a local laundry business based in Carpi(MO), Italy. The website is built using Next.js, hosted on Vercel, and features a user interface designed with @mui/material. Content management is handled through the Storyblok CMS.
 
-Visit [This Link]('https://lavanderia-giulia.vercel.app') to view the live website.
+Visit [This Link](https://lavanderia-giulia.vercel.app) to view the live website.
 
 ## Technologies Used
 
@@ -24,4 +24,4 @@ Contributions are welcome! If you find any issues or want to enhance the website
 
 ## License
 
-This project is licensed under the [MIT License]('./LICENSE.md').
+This project is licensed under the [MIT License](LICENSE.md).
