@@ -1,38 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align='center'>Lavanderia Giulia</h1>
 
-## Getting Started
+## Project Overview
 
-First, run the development server:
+Welcome to the Lavanderia Giulia website repository! This project serves as the official website for Lavanderia Giulia, a local laundry business based in Carpi(MO), Italy. The website is built using Next.js, hosted on Vercel, and features a user interface designed with @mui/material. Content management is handled through the Storyblok CMS.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Visit [This Link]('https://lavanderia-giulia.vercel.app') to view the live website.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Next.js: A React framework for building server-rendered applications.
+- React: A JavaScript library for building user interfaces.
+- Vercel: A platform for deploying web applications and static sites.
+- @mui/material: A modern React UI framework that follows the Material Design guidelines.
+- Storyblok: A headless CMS for managing content and delivering it anywhere via APIs.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Purpose
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The Lavanderia Giulia website provides an online presence for the business, showcasing its range of services, pricing details, contact information, and operating hours. This project aims to offer an informative and user-friendly experience to potential customers seeking laundry services in Carpi(MO), Italy.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contributing
 
-## Learn More
+Contributions are welcome! If you find any issues or want to enhance the website's functionality, feel free to submit a pull request.
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the [MIT License]('./LICENSE.md').
